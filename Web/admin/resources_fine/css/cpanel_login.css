@@ -1,0 +1,16 @@
+body { color: black; background-color: white; background-image: url(../img/gears_more_gears.jpg); background-repeat: no-repeat; background-position: center top; margin: 0; padding: 0; }
+
+p {}
+
+td {}
+
+a:link { color: blue }
+
+a:visited { color: purple }
+
+a:hover { color: purple }
+
+a:active { color: red }
+.class { }
+.be { background-image: url(../img/white-background-colours-hd-wallpaper-abstract-images-white-hd-wallpaper.jpg); background-position: center; }
+.logo { background-image: url(../img/logo.png); background-repeat: no-repeat; background-position: left center; }

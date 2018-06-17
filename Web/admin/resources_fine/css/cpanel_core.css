@@ -1,0 +1,42 @@
+body { color: black; background-repeat: no-repeat; background-position: center top; margin: 0; padding: 0; }
+
+p {}
+
+td {}
+.be { background-image: url(../img/Business-Efficiency.jpg); background-repeat: no-repeat; background-position: center bottom; }
+.holder_red { background-image: url(../img/holder_red.png); background-repeat: no-repeat; background-position: center; }
+.loading { background-image: url(../img/25.GIF); background-repeat: no-repeat; background-position: center; }
+a:link { color: blue }
+
+a:visited { color: purple }
+.sub_menus_rep { background-image: url(../img/sub_menus_rep.png); background-repeat: repeat-x; background-position: center bottom; }
+.font8 { font-size: 8pt; }
+a:hover { color: purple }
+.def_bg { background-image: url(../img/def_bg.png); background-repeat: no-repeat; background-position: right top; }
+.top_row2 { background-image: url(../img/top-row-2.png); background-repeat: no-repeat; background-position: center bottom; }
+a:active { color: red }
+.ab_top_rep { background-image: url(../img/ab_top_rep.png); background-repeat: repeat-x; background-position: center bottom; }
+.webcam { background-image: url(../img/WebCam.png); background-repeat: no-repeat; background-position: center; }
+.lh_logo { background-image: url(../img/lh_logo.png); background-repeat: no-repeat; background-position: left center; }
+.but_grad { background-image: url(../img/bg_tile_bat.png); background-repeat: repeat-x; background-position: center bottom; }
+.logo { background-image: url(../img/cpanel_logo.png); background-repeat: no-repeat; background-position: left center; }
+.sn_list { border: solid 1px #ccc; }
+.cb { background-image: url(../img/camera_bg.png); background-repeat: no-repeat; background-position: center; }
+.cpanel_bg_tile { background-image: url(../img/cpanel_bg_tile.png); background-repeat: repeat; background-position: center; }
+.top_grad { background-image: url(../img/bg_tile_top.png); background-repeat: repeat-x; background-position: center top; }
+.combo { border: solid thin #d7d5d5; }
+
+.lista_01 { background-image: url(../img/number-one-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.panel_abc { background-image: url(../img/panel_abc.png); background-repeat: no-repeat; background-position: center bottom; }
+.lista_02 { background-image: url(../img/number-two-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.lista_03 { background-image: url(../img/number-three-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.lista_04 { background-image: url(../img/number-four-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.lista_05 { background-image: url(../img/number_five-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.ab_top_rep_but { background-image: url(../img/ab_top_rep_but.png); background-repeat: repeat-x; background-position: center; }
+
+.rbDecorated
+{
+ padding-left: 2px !important;/* this could be increased if you want to have more space betwwen the left button edge and the text  */
+ text-align: left !important;
+}
+.signout_top_shadow { background-image: url(../img/cpanel/signout_top_shadow.png); background-repeat: no-repeat; background-position: center bottom; }

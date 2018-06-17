@@ -1,0 +1,46 @@
+body 
+{ 
+font-family: "Droid Sans", sans-serif;
+color: #2f2d2d; font-size: 11pt; background-repeat: no-repeat; background-position: right top; margin: 0; padding: 0; }
+
+p {}
+.main_mid_bg { background-image: url(../img/body_bg.jpg); background-repeat: no-repeat; background-position: center; }
+td {}
+.list_box_borders_zero { border-width: 0; }
+a:link { color: blue }
+
+a:visited { color: purple }
+
+a:hover { color: purple }
+.tech { background-image: url(../img/banner-support.png); background-repeat: no-repeat; background-position: left top; }
+.no_img { background-image: url(../img/2013_image_security.png); background-repeat: no-repeat; background-position: center; }
+.items_bg { background-image: url(../img/body-top-bg.jpg); background-repeat: no-repeat; background-position: center; }
+.rebon_ones { background-image: url(../img/ribbons.png); background-repeat: no-repeat; background-position: center top; }
+.bg_tile_top { background-image: url(../img/bg_tile_top.png); background-repeat: repeat-x; background-position: center top; }
+a:active { color: red }
+.logo { background-image: url(../img/logo.png); background-repeat: no-repeat; background-position: left center; }
+.logo_s { background-image: url(../img/logo_s.png); background-repeat: no-repeat; background-position: right center; }
+.search_dd { color: #45b8ff; background-image: url(../img/bg_tile_top.png); background-repeat: repeat-x; background-position: center top; }
+.p_detail_bg 
+{ -moz-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px; border-radius: 5px 5px 5px 5px; background-repeat: no-repeat; background-position: center; border: solid thin #e6e6e6; }
+.abstract_bg { background-image: url(../img/dark-pyramids-3d-hd-wallpaper-1920x1080-3354.png); background-repeat: no-repeat; background-position: center; }
+.sh_add { background-image: url(../img/2013_shopping_add.png); background-repeat: no-repeat; background-position: right center; }
+.return { background-image: url(../img/banner-return.png); background-repeat: no-repeat; background-position: left top; }
+.bbg1 { background-image: url(../img/bbg1.png); background-repeat: no-repeat; background-position: center; }
+.list { background-image: none; background-repeat: no-repeat; background-position: center; border-width: 0; }
+.m_bg1 { background-image: url(../img/flowers-r1.png); background-repeat: no-repeat; background-position: center top; }
+.list01 { background-image: url(../img/number-one-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.tile_but { background-image: url(../img/bg_tile_bat.png); background-repeat: repeat-x; background-position: center bottom; }
+.lista_01 { background-image: url(../img/number-one-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.lista_02 { background-image: url(../img/number-two-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.logo_s_r { background-image: url(../img/logo_s.png); background-repeat: no-repeat; background-position: left center; }
+.ok { background-image: url(../img/ok.png); background-repeat: no-repeat; background-position: center; }
+.combo { border: solid thin #d4d4d4; }
+.lista_03 { background-image: url(../img/number-three-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.lista_04 { background-image: url(../img/number-four-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.hbg { background-image: url(../img/waves-light-blue-background1.png); background-repeat: no-repeat; background-position: left bottom; }
+.lista_05 { background-image: url(../img/number_five-.png); background-repeat: no-repeat; background-position: center; border-width: 0; }
+.logo_print { background-image: url(../img/logo_print.png); background-repeat: no-repeat; background-position: left center; }
+.logo_s0 { background-image: url(../img/logo_s.png); background-repeat: no-repeat; background-position: left center; }
+.cart_mid_bg { background-image: url(../img/cart_bg.gif); background-repeat: no-repeat; background-position: left top; }
+.cart_user_icon { background-image: url(../img/cart_user_icon.png); background-repeat: no-repeat; background-position: left top; }

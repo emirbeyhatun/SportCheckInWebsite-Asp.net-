@@ -1,0 +1,14 @@
+body { color: black; background-color: #e3e6eb; }
+
+p {}
+
+td {}
+
+a:link { color: blue }
+
+a:visited { color: purple }
+
+a:hover { color: purple }
+
+a:active { color: red }
+.back { background-image: url(../img/error-page.jpg); background-repeat: no-repeat; background-position: center; }

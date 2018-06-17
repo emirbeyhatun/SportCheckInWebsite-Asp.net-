@@ -1,0 +1,14 @@
+body { background-repeat: no-repeat; background-position: center; color: black; background-color: #ececec; background-repeat: no-repeat; background-position: center top; }
+
+p {}
+
+td {}
+
+a:link { color: blue }
+
+a:visited { color: purple }
+
+a:hover { color: purple }
+
+a:active { color: red }
+.fatura_bg { background-image: url(../img/fatura_bg.jpg); background-repeat: no-repeat; background-position: center top; }
